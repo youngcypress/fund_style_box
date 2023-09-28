@@ -12,3 +12,5 @@
 # 前期准备
 - 本项目的数据来源于Wind，因此需要你拥有一个带有wind api的账号，以便程序能够正常运行。
 - 本项目的所需库和版本都放在了requirments.txt文件中，请自行在虚拟环境中安装
+# 应用界面
+![image](https://github.com/youngcypress/fund_style_box/assets/115879057/afb7290c-9df2-4c01-887f-7548d59cb61f)
